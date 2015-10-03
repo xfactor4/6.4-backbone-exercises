@@ -15,7 +15,8 @@ $base-font-color: $dark-gray;
 $base-background-color: $very-light-gray;
 
 body {
-  background-color: $base-background-color;
+  background: white;
+  background-size: cover;
   color: $base-font-color;
   font-family: $base-font-family;
 }
