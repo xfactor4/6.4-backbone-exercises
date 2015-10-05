@@ -19,7 +19,7 @@ submit it will create a post.  I gave it a preventDefault so that it will not
 continue to refresh the page.  My next expression (this.collection.create()) is
 what will create the actually post that the user inputs. Inside of this function
 I am calling another function to actually get the information that I want from
-the user. 
+the user.
 */
 
      createPost: function(e){

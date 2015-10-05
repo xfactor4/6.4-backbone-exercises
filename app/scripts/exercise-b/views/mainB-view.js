@@ -1,4 +1,4 @@
-var MainView = Backbone.View.extend({
+var MainViewB = Backbone.View.extend({
 /* I am rendering a function which will provide my view template with my
 model data and will update this.el with new HTML. render is also a noop
 */
@@ -9,4 +9,4 @@ model data and will update this.el with new HTML. render is also a noop
 
 });
 
-export default MainView;
+export default MainViewB;
